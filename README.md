@@ -83,17 +83,6 @@ namespace MyFirstCSharp
 
 
 
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-
-
 
 
 
@@ -113,3 +102,20 @@ namespace MyFirstCSharp
 
 ![ㅇㅇ](https://user-images.githubusercontent.com/118166199/215767288-3a4110d5-43d4-42b3-8d3a-ae86746b4a81.png)
 (![image](https://user-images.githubusercontent.com/118166199/215768921-bbaf489d-14d1-49d6-84ed-2421afee94fc.png)
+
+
+
+
+
+# MES 학습
+
+C#과 SQL을 이용한 MES를 처음부터 끝까지는 아니지만
+
+전반적으로 돌아가는 시스템, 코딩을 하는법, MES의 개념을 이해 하고 습득 하였습니다.
+
+아래는 구현해본 화면입니다.
+
+![image](https://user-images.githubusercontent.com/118166199/215772243-a0595436-943d-4ec3-bfd6-c2ab7c5f0444.png)
+![image](https://user-images.githubusercontent.com/118166199/215772261-f01f5833-4955-4004-a027-0660837354b9.png)
+https://user-images.githubusercontent.com/118166199/215771702-20dde353-9379-4bca-8545-ab5e1baa429b.png
+
