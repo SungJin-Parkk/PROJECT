@@ -11,6 +11,7 @@ string은 문자 int는 숫자라는 아주 기초적인 것도 몰랐지만
 
 열심히 강의를 들어서 밑에 구문은 작성 할만한 실력과 개념이 되었습니다.
 
+처음부터 끝까지 짠 코딩이며 교육센터의 시험중 하나였습니다.
 
 ![ㅇㅇ](https://github.com/SungJin-Parkk/Project/blob/main/img/%EC%B2%AB%EB%B2%88%EC%A7%B8.png)
 
