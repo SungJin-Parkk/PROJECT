@@ -84,7 +84,15 @@ namespace MyFirstCSharp
 
 3명을 조를 이루어 설비보존 시스템을 구현하였습니다.
 
+처음에 조를 이루고 조원들끼리 한 생각으로는 코딩적으로 구현이 어렵고 시간이 제일 많이 걸릴줄 알았으나
+
+프로세서를 짜는것과 고객이 요구하는 조건을 정확히 아는 것 그리고 설계서를 짜는 시간이 
+
+더 까다롭고 시간을 많이 잡아 먹는 일이 되었습니다.
+
 아래는 제가 맡은 설계서 입니다.
+
+
 
 ![ㅇㅇ](https://user-images.githubusercontent.com/118166199/215767288-3a4110d5-43d4-42b3-8d3a-ae86746b4a81.png)
 (![image](https://user-images.githubusercontent.com/118166199/215768921-bbaf489d-14d1-49d6-84ed-2421afee94fc.png)
