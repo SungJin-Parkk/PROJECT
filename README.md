@@ -79,3 +79,9 @@ namespace MyFirstCSharp
 }
 
 ```
+
+# 미니 프로젝트
+
+3명을 조를 이루어 
+
+![ㅇㅇ](https://user-images.githubusercontent.com/118166199/215767288-3a4110d5-43d4-42b3-8d3a-ae86746b4a81.png)
