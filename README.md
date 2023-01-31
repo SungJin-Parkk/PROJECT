@@ -82,6 +82,9 @@ namespace MyFirstCSharp
 
 # 미니 프로젝트
 
-3명을 조를 이루어 
+3명을 조를 이루어 설비보존 시스템을 구현하였습니다.
+
+아래는 제가 맡은 설계서 입니다.
 
 ![ㅇㅇ](https://user-images.githubusercontent.com/118166199/215767288-3a4110d5-43d4-42b3-8d3a-ae86746b4a81.png)
+![ㅇㅇ](![image](https://user-images.githubusercontent.com/118166199/215768921-bbaf489d-14d1-49d6-84ed-2421afee94fc.png)
